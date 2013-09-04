@@ -1,0 +1,12 @@
+{
+  "name": "scaffolding",
+  "repository": "git://github.com//spinly/scaffolding/.git",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-stylus-plugin": "~0.2.4",
+    "jade": "~0.35.0"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

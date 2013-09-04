@@ -1,0 +1,12 @@
+{
+  "name": "scaffolding",
+  "repo": "spinly/scaffolding",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "index.styl"
+  ]
+}
